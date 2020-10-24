@@ -401,7 +401,7 @@ the United Nations. </pre>
   </div>
   </div>
   <div class="row">
-  <div class="col-md-12 copyright">
+  <div class="col-md-12 copyright center">
   <h6><b>MADE BY Axon2 FROM Axonfactory</b></h6>
   </div>
   </div>
