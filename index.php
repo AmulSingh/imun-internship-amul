@@ -402,7 +402,7 @@ the United Nations. </pre>
   </div>
   <div class="row">
   <div class="col-md-12 copyright">
-  <h6><b>COPYRIGHT &copy; 2018-2019, INTERNATIONAL MODEL UNITED NATIONS</b></h6>
+  <h6><b>COPYRIGHT &copy; LifeTime, Made By Axon2</b></h6>
   </div>
   </div>
 </footer>
